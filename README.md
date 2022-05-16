@@ -27,8 +27,7 @@ Back-end 개발을 공부하는 김동욱이라고 합니다.💻<br/>
   <br/>
   <br/>
   <br/>
-<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kdw150821"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <br/>
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kdw150821"/><br/>
   <br/>
   <br/>
   :envelope:kdw15082@gmail.com:envelope:
